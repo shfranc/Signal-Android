@@ -458,7 +458,7 @@
   <string name="MediaOverviewActivity_Select_all">Tout sélectionner</string>
   <string name="MediaOverviewActivity_collecting_attachments">Récupération des pièces jointes…</string>
   <string name="MediaOverviewActivity_Sort_by">Trier par</string>
-  <string name="MediaOverviewActivity_Newest">Le pPlus récent</string>
+  <string name="MediaOverviewActivity_Newest">Le plus récent</string>
   <string name="MediaOverviewActivity_Oldest">Le plus ancien</string>
   <string name="MediaOverviewActivity_Storage_used">Mémoire utilisée</string>
   <string name="MediaOverviewActivity_All_storage_use">Utilisation totale de la mémoire</string>
